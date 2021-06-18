@@ -38,12 +38,12 @@ def jalan(z):
 ##### LOGO #####
 logo = """
    R A T U L
-   ▄︻̷̿┻̿═━一
+
    THE ANONYMOUS LazyHacker
    Facebook Clone
    THE FAT BOY
    Love Bangladesh 
-   ℒℴνℯ ▄︻̷̿┻̿═━一
+   
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mlove
 \033[1;96mYouTube \033[1;93m: \033[1;92mBangladeshi Hackers
